@@ -1,4 +1,4 @@
-// Fracturing.c
+// Assignment 1
 // Author: Ashlyn Sanchez
 // Class: COP 3223, Professor Parra
 
