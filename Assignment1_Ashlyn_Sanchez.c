@@ -103,5 +103,4 @@ int main (int argc, char** argv) {
     calculateWidth ();
     calculatHeight ();
     return 0;
-    
 }
